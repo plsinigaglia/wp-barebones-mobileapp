@@ -5,8 +5,8 @@
     <description>Boarding</description>
     <author email="pls@accionplanetaria.org" href="https://www.accionplanetaria.org">Acción Planetaria DSR</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
-    <feature name="http://api.phonegap.com/1.0/device" />
+    <!--preference name="phonegap-version" value="3.3.0" />
+    <feature name="http://api.phonegap.com/1.0/device" /-->
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
